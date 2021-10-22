@@ -18,11 +18,11 @@ const HeaderOptions = () => {
                     title="All"
                     selected
                 />
-                <HeaderOption Icon={PhotographIcon} title="All" />
-                <HeaderOption Icon={PlayIcon} title="All" />
-                <HeaderOption Icon={NewspaperIcon} title="All" />
-                <HeaderOption Icon={MapIcon} title="All" />
-                <HeaderOption Icon={DotsVerticalIcon} title="All" />
+                <HeaderOption Icon={PhotographIcon} title="Images" />
+                <HeaderOption Icon={PlayIcon} title="Videos" />
+                <HeaderOption Icon={NewspaperIcon} title="News" />
+                <HeaderOption Icon={MapIcon} title="Shopping" />
+                <HeaderOption Icon={DotsVerticalIcon} title="Books" />
                 
             </div>
 

@@ -13,7 +13,7 @@ const Footer2 = () => {
                     Carbon neutral since 2007
                 </div>
 
-                <div className="flex justify-center space-x-8 whitespace-nowrap">
+                <div className="flex justify-center space-x-8 whitespace-nowrap lg:justify-start">
                     <p>Advertising</p>
                     <p>Business</p>
                     <p>How Search Works</p>
