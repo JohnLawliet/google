@@ -1,13 +1,12 @@
 import Head from 'next/head'
-import {UserCircleIcon, MicrophoneIcon, DotsVerticalIcon, SearchIcon} from '@heroicons/react/solid'
-import Footer from '../components/Footer'
+import {MicrophoneIcon, DotsVerticalIcon, SearchIcon} from '@heroicons/react/solid'
 import Avatar from '../components/Avatar'
 import Image from 'next/image'
 import Footer2 from '../components/Footer2'
 import { useRef } from 'react'
 import { useRouter } from 'next/router'
 
-const langs = ["hindi, bengali, francais, german, spanish, portugese"]
+// const langs = ["hindi, bengali, francais, german, spanish, portugese"]
 
 export default function Home() {
   const searchInpref = useRef(null)
