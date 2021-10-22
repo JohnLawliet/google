@@ -66,7 +66,7 @@ export default function Home() {
           >
           Google Search
           </button>
-          <button className="homeBtn" onClick={search}>I'm Feeling Lucky</button>
+          <button className="homeBtn" onClick={search}>I&apos;m Feeling Lucky</button>
         </div>
       </form>
       
