@@ -60,7 +60,6 @@ const Header = () => {
                 </form>
 
                 <Avatar 
-                    url="https://coaching.papareact.com/ai9"
                     className="ml-auto"
                 />
             </div>

@@ -39,7 +39,7 @@ export default function Home() {
         </span>
         {/*<UserCircleIcon className="h-8"/>*/}
         
-        <Avatar url="https://coaching.papareact.com/ai9"/>
+        <Avatar />
       </header>
 
       <form className="flex flex-col items-center w-4/5 mx-auto">
